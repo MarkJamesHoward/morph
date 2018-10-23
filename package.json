@@ -1,6 +1,6 @@
 {
   "name": "@ashotofcode/morph",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "morphing svg",
   "main": "main.js",
   "dependencies": {
