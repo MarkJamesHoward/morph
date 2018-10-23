@@ -1,0 +1,25 @@
+{
+  "name": "@ashotofcode/morph",
+  "version": "1.0.0-alpha.0",
+  "description": "morphing svg",
+  "main": "main.js",
+  "dependencies": {
+    "@polymer/lit-element": "*",
+    "flubber": "^0.4.2",
+    "popmotion": "^8.4.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MarkJamesHoward/morph.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MarkJamesHoward/morph/issues"
+  },
+  "homepage": "https://github.com/MarkJamesHoward/morph#readme"
+}
